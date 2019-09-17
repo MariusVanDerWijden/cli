@@ -449,7 +449,7 @@ func printUsage() {
 	fmt.Println("---------- Git Commands ----------")
 	fmt.Println(" - dit <GIT_COMMAND>\t\t\t\tExample Usage: dit commit -m \"Add new feature\"")
 	fmt.Println("")
-	fmt.Println("   Avialable git commands within the ditCLI:")
+	fmt.Println("   Available git commands within the ditCLI:")
 	fmt.Println(" - add, bisect, branch, checkout, commit\tYou can use these git commands as you are usually using")
 	fmt.Println(" - diff, fetch, grep, log, merge, pull\t\tthem with the regular git client. If you are not familiar")
 	fmt.Println(" - push, rebase, reset, rm, show, stash\t\twith the usage of one of these commands, please refer to")
